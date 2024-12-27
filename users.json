@@ -1,0 +1,19 @@
+[
+  {
+    "username": "username",
+    "password": "password",
+    "progress": 1,
+    "lives": 0,
+    "coordinates": {
+      "x": 894,
+      "y": 234
+    },
+    "answer": "45iWc4ty"
+  },
+  {
+    "username": "username2",
+    "password": "password2",
+    "progress": 0,
+    "lives": 3
+  }
+]
